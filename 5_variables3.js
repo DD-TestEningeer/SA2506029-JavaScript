@@ -1,11 +1,11 @@
 
-var username = "Demo";
+var username = "Demo"; //(variable declaration + value assignment)
 
-// reassignment 
+// value reassignment 
 
 username = "Demo2";
 
-// redeclaration 
+// variable redeclaration 
 
 var username = "Demo3";
 

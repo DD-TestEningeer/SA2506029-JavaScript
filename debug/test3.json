@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John",
+      "location": "india",
+      "phone": "1234567890",
+      "courses": ["Java", "Selenium"]
+    },
+    {
+      "name": "Uzair kazi",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Nazeeya",
+      "location": "Cyprus",
+      "phone": "357 6868608",
+      "courses": ["C#", "API"]
+    },
+    {
+      "id": "a990",
+      "name": "Uzair patel",
+      "location": "india pune",
+      "phone": "1234567890",
+      "courses": ["Java", "C++"]
+    }
+  ]
+}
